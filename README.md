@@ -1,2 +1,2 @@
-my first html prject from fcc
+my first html project from fcc
 more to come
